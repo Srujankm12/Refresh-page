@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png"  height="500"/></td>
-    <td valign="top"><img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_page2.png" height="500"/></td>
+    <td valign="top"><img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png"  width="500" height="500"/></td>
+    <td valign="top"><img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_page2.png" width="500" height="500"/></td>
   </tr>
 </table>
+h
