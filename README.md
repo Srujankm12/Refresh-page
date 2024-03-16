@@ -15,6 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png)
-![alt text](https://github.com/Srujankm12/Refresh-page/blob/main/refresh_page2.png)
-
+<img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png" alt="Image description" width="200" height="200">
+<img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_page2.png" alt="Image description" width="200" height="200">
