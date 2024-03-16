@@ -15,14 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png"/>
-    <img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_page2.png" />
-  </div>
-</div>
-
 <table>
   <tr>
     <td valign="top"><img src="https://github.com/Srujankm12/Refresh-page/blob/main/refresh_pag1.png"/></td>
